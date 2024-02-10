@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "assets",
+			"path": "../Rocketseat, Curso html css java/assets"
+		},
+		{
+			"name": "Teste de criação de cabeça",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Teste de criação de cabeça"
+	}
+}
